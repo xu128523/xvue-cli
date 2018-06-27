@@ -1,19 +1,19 @@
-# flag-cli
+# xvue-cli
 
 前端工程脚手架工具
 
 ## 安装
 
 ```bash
-$ npm i flag-cli -g
+$ npm i xvue-cli -g
 ```
 
 ## 使用
 
 ```bash
-$ flag-cli --help # 查看帮助
+$ xvue-cli --help # 查看帮助
 ```
 
 ```bash
-$ flag-cli init [dir] # 复制模板文档到指定目录，默认： ./
+$ xvue-cli init [dir] # 复制模板文档到指定目录，默认： ./
 ```
