@@ -1,0 +1,24 @@
+{
+  "name": "flag-cli",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "xvue-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xu128523/vue-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "request": "^2.81.0",
+    "shelljs": "^0.7.7",
+    "unzip": "^0.1.11"
+  }
+}
